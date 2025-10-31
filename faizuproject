@@ -1,1 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>HTML tages</title>
+    
+</head>
+<body>
 
+   
+    <center>
+    <h4 style="color: rgb(221, 6, 6);">All Html Tages</h4>
+    <hr>
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(1.paragraph tag)</b>
+        <h5>ex:< p> & < /p> </h5>
+        <hr>
+    </p>
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(2.heading tag)</b>
+        
+        <h1>ex: faizal</h1>
+        <h2>faizal</h2>
+        <h3>faizal</h3>
+        <h4>faizal</h4>
+        <h5>faizal</h5>
+        <h6>faizal</h6>
+        <hr>
+    </p>
+    <b style="color:  rgb(3, 205, 185);">(3.bold tag)</b><br>
+    <br>ex: < b></b><b>faizal</b>< /b>
+    <hr>
+    
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(4. italic tag)</b><br>
+       <br>ex: < i></i><i>mohamed faizal< /i></i>
+       <hr>
+    </p>
+
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(5.Subscript & Subscript)</b>
+        <p>ex: 1.(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab / < sup> < /sup></p>
+        <p> 2. H<sub>2</sub>o is water / < sub> < /sub></p>
+        <hr>
+    </p>
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(6.break & horizontal)</b>
+        <p>ex: mohamed <br>faizal</p>
+       1. < br> oru line na cut panni next line ku move pannum<br>
+       2. < hr> < hr>oru line ku keela underline make panrathu use agum
+       <hr>
+    </p>
+
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(7.strong & emphasis tag)</b><br>
+        <br>1.<strong>faizal</strong> / < strong>< /strong>
+        <br>2.<em>faizal</em> < em> < /em>
+      
+        <hr>
+    </p>
+    
+    <p>
+      <b style="color:  rgb(3, 205, 185);">(9. quote and block quote)</b>
+      <p> 1.<q>faizal</q></p>
+      <p><blockquote>2. mohamed faizal</blockquote></p><br>
+      <hr>
+    </p>
+
+      
+      <p> 
+    <b style="color:  rgb(3, 205, 185);">(9.Abbreviation & acronym)</b><br>
+    <p>
+        <abbr  title="faizal">1. fz</abbr> / < abbr>< /abbr><br>
+        <acronym title="indian space research organisation">2. isro</acronym> /  < accronym> < /accronym>
+         <hr>
+    </p>
+   
+
+    <p>
+        <b style="color:  rgb(3, 205, 185);">(10.citation & Definition)</b>
+        <p>1.iam <cite>Mohamed faizal </cite> in tamil nadu</p>
+        <p>2.mohamed<dfn>faizal</dfn>k</p>
+        <hr>
+        </p>
+
+        <p>
+            <b style="color:  rgb(3, 205, 185);">(11.delete , insert & strikeout)</b>
+            <p>my name is <del>ari</del><ins> faizal</ins></p>
+            <P>my name is change <s>arif</s> faizal  </P>
+            <hr>
+        </p>
+
+        <P>
+            <b style="color:  rgb(3, 205, 185);">(12.image tag)</b><br>
+            <figure>
+           <br> <img src="img.png.png" alt="faizal" width="100" height="100" title="mohamed faizal">
+           </figure>
+           <figcaption>
+            my name is mohamed faizal
+           </figcaption>
+           <p>[ithula image tag use pannirukku & figure and figure caption tag use pannirukku]</p>
+        <hr>
+         </P>
+         <b style="color:  rgb(3, 205, 185);">(13.link tag)</b>
+        <P><a href="https://www.youtube.com/" target="_blank"> Youtube</a> click the youtube link</P>
+        <hr>
+        </p>
+
+        <P>
+           <b style="color:  rgb(3, 205, 185);">(14.Email link)</b>
+           <P>My Email id is <a href="mailto:mhfaizum@gmail.com">mhfaizum@gmail.com</a></P>
+        <P> <a href="mailto:mhfaizum@gmail.com"></href>contact me </a></P>
+        <hr>
+        
+       </P>
+
+       <ul>
+        <b style="color:  rgb(3, 205, 185);">(15.named anchor)</b>
+        <h1 id="top"><ins>named anchor</ins></h1>
+        <li><a href="#m">m</a></li>
+         <li><a href="#h">h</a></li>
+         <li> <a href="#o">o</a></li>
+           <li><a href="#f">f</a></li>
+            <li><a href="#s">s</a></li>
+             <li><a href="#v">v</a></lir>
+       </ul>
+       <h2 id="m">m</h2>
+       <p><a href="#top">back to home</a></p> 
+         <h2 id="h">h</h2>
+       <p><a href="#top">back to home</a></p>
+         <h2 id="h">h</h2>
+       <p><a href="#top">back to home</a></p>
+         <h2 id="o">o</h2>
+       <p><a href="#top">back to home</a></p>
+         <h2 id="f">f</h2>
+       <p><a href="#top">back to home</a></p>
+         <h2 id="s">s</h2>
+       <p><a href="#top">back to home</a></p>
+         <h2 id="v">v</h2>
+       <p><a href="#top">back to home</a></p>
+       <hr>
+
+       <p>
+       <b style="color: rgb(3, 205, 185);">(16.unorderlist / orderlist / Definition list )</b>
+
+        <h2 style="color: rgb(131, 32, 198);">.order list</h2>
+        <ul>
+            <li>potatoes</li>
+            <li>oil</li>
+            <li>cold water</li>
+            <li>rosemary</li>
+            <li>red chilli powder</li>
+             </ul>
+
+             <ol>
+              <h2 style="color: rgb(131, 32, 198);">.un order list</h2>
+                <li>Wash and peel the potatoes.</li>
+                <li>Cut them into long, even sticks (about ¼ inch thick) so they cook evenlySoak in Cold Water</li>
+                <li>Peel & Cut Potatoes</li>
+                <li>Put the cut potatoes in a bowl of cold water for 30 minutes to 1 hour.</li>
+                <li>This removes excess starch and helps make them crispier.</li>
+                <li>Drain the water and pat the potatoes completely dry with a kitchen towel.</li>
+                <li>(Important: Wet potatoes splatter in hot oil.) </li>
+                <li>Fry the cooled potatoes again until golden and crispy (about 2–3 minutes).</li>
+                </ol>
+                
+                <h2  style="color: rgb(131, 32, 198);">.definition list</h2>
+                <dl>
+                  <dt>.Html</dt>
+                  <dd>HyperText Markup Language.</dd>
+                  <dt>.Css</dt>
+                  <dd>Cascading Style Sheets.</dd>
+                </dl>
+                <hr>
+                       </p>
+
+       <p>
+        <b style="color:  rgb(3, 205, 185);">(17.Nested list)</b><br>
+        <ul>
+           <li><a href="#"></a>Home</li>
+           <li><a href="#"></a>About
+          <ul>
+            <li><a href="#"></a>our company</li>
+            <li><a href="#"></a>Our mission</li>
+            <li><a href="#"></a>Our team</li>
+          </ul>
+          </li>
+           <li><a href="#"></a>service
+          <ul>
+            <li><a href="#"></a>web designing</li>
+            <li><a href="#"></a>Web development</li>
+            <li><a href="#"></a>Web hosting</li>
+            <li><a href="#"></a>maintenance</li>
+
+          </ul>
+          </li>
+           <li><a href="#"></a>Technologies</li>
+           <li><a href="#"></a>Contact
+          <ul>
+            <li><a href="#"></a>Support</li>
+            <li><a href="#"></a>careers</li>
+          </ul>
+          </li>
+        </ul>
+        <hr>
+       </p>
+
+       <p>
+        <b style="color:  rgb(3, 205, 185);">(18.basic table and rowspan & colspan)</b><br>
+        <br><b style="color:brown">time table</b>
+        <table border="3" cellpadding="5" width="85%" cellspacing="5">
+          <tr>
+            <th rowspan="2" bgcolor="skyblue">day</th>
+            <th colspan="11" bgcolor="skyblue">time</th>
+          </tr>
+           
+            <th>9:00 - 9:45</th>
+            <th>9:45 - 10:30</th>
+            <th rowspan="8" bgcolor="skyblue">recess</th>
+            <th>10:30 - 12:15</th>
+            <th>1:15 - 2:00</th>
+            <th rowspan="8" bgcolor="skyblue">lunch</th>
+            <th>2:00 - 2:45</th>
+            <th>3:00 - 3:45</th>
+            <th rowspan="8" bgcolor="skyblue">recess</th>
+            <th>3:45 - 4:30</th>
+            <th>4:30 - 5:00</th>
+
+          </tr>
+          <tr>
+            <th bgcolor="lightpink">monday</th>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+          </tr>
+          <tr>
+            <th bgcolor="lightpink">tuesday</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+             <td></td>
+          </tr>
+          <tr>
+            <th bgcolor="lightpink">wednesday</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+             <td></td>
+
+          </tr>
+          <tr>
+            <th bgcolor="lightpink">thursday</th>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+            <td></td>
+
+          </tr>
+          <tr>
+            <th bgcolor="lightpink">friday</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+           <td></td>
+
+          </tr>
+          <tr>
+            <th bgcolor="lightpink" , align="">saturday</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+             <td></td>
+
+          </tr>
+        </table><br>
+
+      <table border="6">
+          <tr>
+             <td>
+           <p style="color:red"> ex:</p>
+              <p>[bgcolor] : background color ah change pannikalam </p><hr>
+              <P>[table] : table use panarathuku intha tag use pannanum ithukulla than matha tags lam use pannanum</P><hr>
+              <P>[border="5"] : box line create panna use agum intha tag ah table tag kulla tha use pannanum</P><hr>
+              <P>[cellpadding] : box size ah improve pannalam and letter space um sollalam , ithaium table tag kulla border ku aduthu use pannalam</P><hr>
+              <P>[cellspacing] : box line ah size improve pannalam , itha table tag kulla border ku aduthu use pannalam</P><hr>
+              <P>[theat] : title</P><hr>
+              <P>[tbody] : box kulla irukka data</P><hr>
+              <p>[tfoot] : end of the box result</p><hr>
+              <p>[rowspan] : rows space ah customis pannalam</p><hr>
+              <P>[colspan] : colnms spce ah customis pannalam</P><hr>
+              <P>[align="5" : data or letter right and left side move pannikalam</P><hr>
+              <p>[width] : box total ratio va change pannalam</p><hr>
+              <p>[tr / table rows] : rows ah represent pannuthu</p><hr>
+              <P>[td / table data cell] : table kulla kodukura data va represent pannuthu</P><hr>
+              <P>[namaba (theat,tbody,tfoot) intha 3 tag um 19th heating ku than use pannirukom]</P>
+              <p></p>
+            </td>
+          </tr>
+         </table>
+          <hr>
+       </p>
+
+       <P>
+        <b style="color:rgb(7, 182, 123)">(19.T heat and T body & T foot tags )</b>
+        <table border="4" cellpadding="5">
+          <thead>
+            <th>5.no</th>
+            <th>Description</th>
+            <th>unit price</th>
+            <th>Quantity</th>
+            <th>Amount</th>
+
+          </thead>
+          <tbody>
+            <td>1</td>
+            <td>soap</td>
+            <td>35.00</td>
+            <td>2</td>
+            <td>70.00</td>
+
+          </tbody>
+          <tfoot>
+            <tr>
+              <th colspan="4">Grand total</th>
+              <th>2000.0</th>
+            </tr>
+          </tfoot>
+        </table>
+        <hr>
+       </P>
+
+       <P>
+        <b style="color:rgb(8, 191, 130)">(20.Html forms creating)</b>
+        <p method="post">
+          <h1>Login form</h1>
+          <P>
+           <input type="text" name="username" placeholder="Enter your username" size="14" maxlength="9">
+          </P>
+          <p>
+          <input type="password" name="password" placeholder="Enter your password" size="14" maxlenght="5">
+          </p>
+          <p> <input type="submit" name="login" value="Send" ></p>
+        </p>
+          <table border="3">
+            <tr>
+              <td>
+                 <p style="color:red">ex:</p>
+                 <p>[form] : form crate panrathuku 1st use panra tag</p>
+                 <p>[input] : oru data va kodukurom atha represent pannum</p>
+                 <P>[type] : type kulla "text" kodutha namba panra text show agum , athukulla "password" nu text panna athukulla dot ah varum namba panra text hide agirum  </P>
+                 <p>[text] : input kulla text kudukurom </p>
+                 <P>[valu] : defalut value irukkum i mean namba oru value kodukamalea valu tag use panna atha oru value varum </P>
+                 <p>[size] : size na screen la ethana charecter theriyanum athukku use panrathu </p>
+                 <p>[maxlength] : intha tag vatchu namba koduka limit varatha tha text panna mudium athukku mela panna mudiathu</p>
+                 <p>[name] : tabel kulla enna mari input kodukka porom nu name tag use panrom </p>
+                 <p>[placeholder] : tabel kulla show anganum namba kodukura input athuku intha tag use panrom</p>
+                 <p>[namba ellam proper ah kodutha athuvey show agum ethu ethukku enna enna mari value kodukanum nu]</p>
+                </td>
+            </tr>
+          </table>
+        </form>
+        <hr>
+       </P>
+
+       <P>
+        <b style="color:rgb(2, 183, 189)">(21. text area tag)</b>
+        <h1>comment form</h1>
+        <form>
+          <p Method="POST">
+            name:<br>
+            <input type="text" name="your name">
+          </p>
+          <p>
+            Email:<br>
+            <input type="email" name="email_id">
+          </p>
+          <p>
+            Comment:<br>
+            <textarea type="comments" cols="35" rows="10" placeholder="Enter your comment"></textarea>
+          </p>
+          <p>
+            choose any option<br>
+            <input type="radio" name="good"  value="good" checked="checked">good?
+            <input type="radio" name="bad" value="bad" checked>bad?
+          </p>
+          <P>
+            <input type="Submit" name="Login" value="send">
+          </P>
+
+          <p>
+            <table border="5">
+              <tr>
+                <td>
+                  <P style="color:red">ex:</P>
+                  <p>[Text area] : intha tag en use panrom na < input> tag la konja line use pannalam athey neriya information solra mari iruthal namba use panra tag tha "textarea" tag athula namba neriya information ah kodukalam athukkuthan athu use pannrathu</p>
+                  <p>[radio] : intha"radio" ethuku use panrathuna 2 la 1 choose pannunga nu solrathuku use agum </p>
+                </td>
+              </tr>
+            </table>
+          <hr>
+       </P>
+
+       <p>
+        <b style="color:rgb(6, 187, 127)">(22.checkbox tag)</b>
+        <h1>checkbox</h1>
+               </p>
+               <p>
+                Name:<br>
+                <input type="text" name="your name">
+               </p>
+              <p>
+                My hobbies are:<br>
+                <input type="checkbox" name="hobbies[]" value="photography"> photography
+                <input type="checkbox" name="hobbies[]" value="video gaming"> video gaming
+                <input type="checkbox" name="hobbies[]" value="drawing"> drawing
+                <input type="checkbox" name="hobbies[]" value="dance"> dance
+                <input type="checkbox" name="hobbies[]" value="basketball"> basketball
+                <input type="checkbox" name="hobbies[]" value="cricket"> cricket
+                <input type="checkbox" name="hobbies[]" value="skiing"> skiing
+              </p>
+              <p>
+                <input type="submit" name="send details" value="send details">
+              </p>
+
+              <P>
+              <table border="4">
+                <tr>
+                  <td>
+                    <p style="color:red">ex:</p>
+                    <p>
+                      [checkbox] : ithu en use panrom na multiple options irukku athula ethachu choose pannanum na intha tag ah use pannalam , itha use panra nala click panra box tick option mari kamikum</p>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <hr>
+              </P>
+
+              <p style="color:rgb(6, 189, 128)">(23.option tag)
+                <p>
+                 
+                  select your data of birth<br>
+                  <br><select name="dob" id="dob">
+                  <option value="">select date</option>
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  </select>
+                  <select name="dob" id="dob">
+                    <option value="">select month</option>
+                    <option value="jan">jan</option>
+                    <option value="feb">"feb</option>
+                    <option value="mar">mar</option>
+                    <option value="apr">apr</option>
+                    <option value="may">may</option>
+                    <option value="jun">jun</option>
+                    <option value="jul">jul</option>
+                    <option value="aug">aug</option>
+                    <option value="sep">sep</option>
+                  </select>
+                  <select name="dob" id="dob">
+                    <option value="">select year</option>
+                    <option value="2001">2001</option>
+                    <option value="2002">2002</option>
+                    <option value="2003">2003</option>
+                    <option value="2004">2004</option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                  </select>
+                  <hr>
+                </p>
+
+                <p style="color:rgb(5, 109, 75)">(24.select multiple choices)</p>
+                <p>Sports training application form</p>
+                <form>
+                  <p>
+                name: <br>
+                <input type="text" name="your_name">
+                </p>
+                <p>
+                  Roll: <br>
+                  <input type="text" name="roll_no">
+                </p>
+                <p>
+                  i want to join training for <br>
+                  <br><select name="sports_choice" multiple size="3">
+                    <option value="Badminton">Badminton</option>
+                    <option value="Basketball">Baskrtball</option>
+                    <option value="chess">chess</option>
+                    <option value="cricket">cricket</option>
+                    <option value="kho kho">kho kho</option>
+                  </select>
+                  </p>
+                  <p>
+                    <input type="submit" name="send details" value="send details">
+                  </p>
+                </form>
+                <hr>
+              </p>
+
+              <p>
+                <p style="color: rgb(7, 122, 84);">(25.file upload)</p>
+                <p>Job application</p>
+                <form enctype="multipart/form-data">
+                  <p>
+                    your name: <br>
+                    <input type="text" name="Your_name">
+                  </p>
+                  <p>
+                    Your Education: <br>
+                    <select name="Education">
+                       <option value="">select Education</option>
+                    <option value="be">B.E.,</option>
+                    <option value="btech">B.TECH.,</option>
+                    <option value="bca">B.C.A.,</option>
+                    <option value="bsc">B.SC.,</option>
+                    </select>
+                  </p>
+                  <P>
+                    you want to apply for the position <br>
+                    <select name="position">
+                       <option value="">select position</option>
+                      <option value="fed">front end developer</option>
+                      <option value="bed">backend developer</option>
+                      <option value="fsd">full stack developer</option>
+                    </select>
+                    <p>
+                      your resume: <br>
+                      <input type="file" name="resume">
+                    </p>
+                    <p>
+                      <input type="submit" name="send details" value="send details">
+                    </p>
+                  </form>
+                  <hr>
+              </p>
+
+              <p style="color: rgb(15, 106, 76);">(26.)
+
+              </p>
+
+                                     
+                
+
+      
+
+
+                
+
+
+
+        
+
+    </center>
+    
+</body>
+</html>
